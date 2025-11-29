@@ -1,7 +1,5 @@
 /**
  * Демонстрация всех способов вызова статического метода printVars().
- * @author Student
- * @version 1.0
  */
 public class A {
     public static int a = 1;
